@@ -1,5 +1,3 @@
-Software Developer | Flutter • Web • AR/VR • ASP.NET | SAP ABAP • OData • Fiori • Integrations
-
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODlraDdpdXlteXoydG8zNGpnbDBvZnRrbXU1ZXk4Nm5yYWpka2pwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif" width="200"/>
 </div>
@@ -26,7 +24,6 @@ Software Developer | Flutter • Web • AR/VR • ASP.NET | SAP ABAP • OData 
 
 <div id="serviceicons" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="70" height="70"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="70" height="70"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="70" height="70"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="70" height="70"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="70" height="70"/>&nbsp;
@@ -34,6 +31,12 @@ Software Developer | Flutter • Web • AR/VR • ASP.NET | SAP ABAP • OData 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="70" height="70"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" title="ASP.NET" alt="ASP.NET" width="70" height="70"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="70" height="70"/>&nbsp;
+
+  <!-- SAP Logo -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" title="SAP ABAP" alt="SAP ABAP" width="90" height="60"/>&nbsp;
+
+  <!-- Fiori Logo -->
+  <img src="https://www.sap.com/dam/application/shared/logos/sap-fiori.svg" title="SAP Fiori" alt="SAP Fiori" width="90" height="60"/>&nbsp;
 </div>
 
 ---------
@@ -53,6 +56,6 @@ Software Developer | Flutter • Web • AR/VR • ASP.NET | SAP ABAP • OData 
 ### 💡 Fun Fact
 
 > “Code is like humor — when you have to explain it, it’s bad.” 😄  
-> Currently learning **AR/VR development** and **AI-driven mobile integrations**.
+> Currently learning **Automation** and **AI-driven mobile integrations**.
 
 ---------
