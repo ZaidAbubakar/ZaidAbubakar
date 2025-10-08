@@ -28,16 +28,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="70" height="70"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="70" height="70"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="70" height="70"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="70" height="70"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" title="ASP.NET" alt="ASP.NET" width="70" height="70"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="70" height="70"/>&nbsp;
-
-  <!-- SAP Logo -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" title="SAP ABAP" alt="SAP ABAP" width="90" height="60"/>&nbsp;
-
-  <!-- Fiori Logo -->
-  <img src="https://www.sap.com/dam/application/shared/logos/sap-fiori.svg" title="SAP Fiori" alt="SAP Fiori" width="90" height="60"/>&nbsp;
-</div>
 
 ---------
 
@@ -46,8 +39,8 @@
 <div align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=ZaidAbubakar&theme=dark&hide_border=true)](https://git.io/streak-stats)  
-![Zaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaidAbubakar&show_icons=true&theme=dark&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaidAbubakar&layout=compact&theme=dark&hide_border=true)
+ <!--  ![Zaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaidAbubakar&show_icons=true&theme=dark&hide_border=true)  -->
+ <!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaidAbubakar&layout=compact&theme=dark&hide_border=true)-->
 
 </div>
 
