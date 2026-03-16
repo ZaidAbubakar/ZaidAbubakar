@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me
 
 - 🚀 Passionate **Software Developer** with hands-on experience in **Flutter, Web Development, AR/VR**, and **Enterprise Integrations**.  
-- 💼 Skilled in **Cross-Platform App Development (Flutter)**, **Game Development (Unity)**, and **Enterprise Technologies (SAP ABAP, OData, Fiori)**.  
+- 💼 Skilled in **Cross-Platform Application Developmen**, and **Enterprise Technologies (SAP ABAP, OData, Fiori)**.  
 - ⚙️ Experienced in building scalable **Web and Mobile solutions** integrated with **cloud and backend systems**.  
 - 🧠 Always exploring **new tech trends** like **AR, AI, and Cloud Integrations**.  
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Zaid-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zaid-abubakar-ba9aaa1b6/)
