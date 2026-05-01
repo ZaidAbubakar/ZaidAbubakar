@@ -10,7 +10,6 @@
 - 💼 Skilled in **Cross-Platform Application Developmen**, and **Enterprise Technologies (SAP ABAP, OData, Fiori)**.  
 - ⚙️ Experienced in building scalable **Web and Mobile solutions** integrated with **cloud and backend systems**.  
 - 🧠 Always exploring **new tech trends** like **AR, AI, and Cloud Integrations**.  
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Zaid-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zaid-abubakar-ba9aaa1b6/)
 
 ---------
 
@@ -43,6 +42,6 @@
 ### 💡 Fun Fact
 
 > “Code is like humor — when you have to explain it, it’s bad.” 😄  
-> Currently learning **Automation** and **AI-driven mobile integrations**.
+> Currently learning **Automation** and **AI-driven integrations**.
 
 ---------
